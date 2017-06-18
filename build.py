@@ -1,2 +1,3 @@
 def solution(dic):
-    """Enter Code Here"""
+    key = [k for k in dic.keys()]
+    return key
